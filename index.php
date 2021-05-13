@@ -18,7 +18,7 @@
   <!-- Load the custom CSS style file -->
 
   <link rel="stylesheet" type="text/css" href="style.css">
-
+<style>
 .wrapper {
   background: #263238;
   height: 100%;
@@ -150,7 +150,7 @@
     }
   }
 }
-
+</style>
 </head>
 
 <body>
