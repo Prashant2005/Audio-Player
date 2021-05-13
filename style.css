@@ -41,13 +41,13 @@ body {
 
   margin: 25px;
 
-  height: 250px;
+  height: 550px;
 
-  width: 250px;
+  width: 550px;
 
   background-image: URL(
 
-     "https://source.unsplash.com/Qrspubmx6kE/640x360");
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLzawulxVWn8cS9iXRNs1GAJS5KthdJN3Wow&usqp=CAU");
 
   background-size: cover;
 
