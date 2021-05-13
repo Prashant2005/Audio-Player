@@ -51,111 +51,13 @@
       z-index: 1;
       text-align:center;
     }
-    .image {
-      display: block;
-      border-top-left-radius: 2px;
-      border-top-right-radius: 2px;
-      height: 75%;
-      position: relative;
-      background: linear-gradient(to top right, rgba(126, 197, 49, 0.55), rgba(0, 140, 255, 0.7)), url('https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=f0c8c34fe56f9669d1c6d129f597f895') center center;
-      background-size: cover;
-      .bottom-content {
-        position: absolute;
-        bottom: 0;
-        height: 60px;
-        line-height: 60px;
-        color: white;
-        font-weight: 100;
-        width: 100%;
-        .repeat {
-          left: 0;
-        }
-        .shuffle {
-          right: 0;
-        }
-        .title {
-          width: 100%;
-          padding: 0 50px;
-          line-height: 15px;
-          .track-name,
-          .track-artist {
-            font-size: 16px!important;
-          }
-        }
-        .repeat,
-        .shuffle {
-          width: 50px;
-          cursor: pointer;
-        }
-        .repeat,
-        .title,
-        .shuffle {
-          text-align: center;
-          position: absolute;
-        }
-      }
-    }
-    .controls {
-      width: 100%;
-      height: 15%;
-      align-items: center;
-      display: flex;
-      align-content: center;
-      border-bottom: 2px solid #b0bec5;
-      .player-controls_btn {
-        color: #263238;
-        width: 10%;
-        cursor: pointer;
-        margin: 0 5%;
-        text-align: center;
-        i {
-          font-size: 28px;
-        }
-      }
-    }
-    .next-song {
-      display: flex;
-      flex-wrap: no-wrap;
-      justify-content: space-between;
-      align-items: center;
-      height: 10%;
-      padding: 0 10px;
-      .cover {
-        background: url('https://images.unsplash.com/photo-1461770354136-8f58567b617a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=f0c8c34fe56f9669d1c6d129f597f895') center center;
-        background-size: cover;
-        width: 40px;
-        height: 40px;
-        border-radius: 40px;
-      }
-      .title {
-        text-align: left;
-        line-height: 16px;
-        min-width: calc(100% - 100px);
-        .next-title {
-          font-weight: bold;
-          font-size: 12px;
-        }
-      }
-      .playlist {
-        font-weight: 28px;
-        width: 40px;
-        height: 40px;
-        cursor: pointer;
-        text-align: center;
-        i {
-          line-height: 40px;
-          color: #263238;
-        }
-      }
-    }
-  }
-}
+    
 </style>
 </head>
 
 <body>
 <div class="wrapper">
-<div class="card player">
+
   <div class="player">
  
 
@@ -236,7 +138,7 @@
       <div class="playlist"><i class="material-icons">queue_music</i></div>
     </div>
   </div>
- </div></div>
+ </div>
 
   <!-- Load the main script for the player -->
 
