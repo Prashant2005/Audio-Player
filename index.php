@@ -18,41 +18,7 @@
   <!-- Load the custom CSS style file -->
 
   <link rel="stylesheet" type="text/css" href="style.css">
-<style>
-.wrapper {
-  background: #263238;
-  height: 100%;
-  width: 100%;
-  position: fixed;
-  .player {
-    width: 320px;
-    height: 568px;
-    background: white;
-    margin: 30px auto;
-    .close {
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      height: 40px;
-      width: 40px;
-      border-radius:40px;
-      opacity:.7;
-      cursor: pointer;
-      color: white;
-      border:2px solid white;
-      &:hover{
-        opacity:1;
-      }
-      i {
-          // font-size: 28px;
-        line-height: 38px;
-        font-weight:100;
-      }
-      z-index: 1;
-      text-align:center;
-    }
-    
-</style>
+
 </head>
 
 <body>
