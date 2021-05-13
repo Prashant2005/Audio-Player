@@ -24,7 +24,7 @@ let track_list = [
   {
     name: "Khali Thi wo Zindagi",
     artist: "Pyaar Lafzon Mein Kahan",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TSHJl0IKRoGfIln28iDwGQ6XJ8qdT0BmuA&usqp=CAU",
+    image: "Download.mp4",
     path: "Download.mp3"
   },
   {
