@@ -14,7 +14,7 @@
       src="https://kit.fontawesome.com/585143586a.js"
       crossorigin="anonymous"
     ></script>
-    <script defer="scriptt.js"></script>
+    <script defer src="scriptt.js"></script>
     <title>MUSIC PLAYER</title>
   </head>
   <body>
