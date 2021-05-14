@@ -21,7 +21,7 @@ let index = 0;
 
 const songDataBase = [
   {
-    songSrc: "./music/music 1.mp3",
+    songSrc: "./music/music1.mp3",
     title: "Khali Thi ye Zindagi",
     artist: "Pyaar Lafzon Mein Kahan",
     imgSrc: "./img/music1.jpg",
