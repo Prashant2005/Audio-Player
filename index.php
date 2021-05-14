@@ -15,7 +15,7 @@
       crossorigin="anonymous"
     ></script>
     <script defer src="./script.js"></script>
-    <title>DevR MUSIC PLAYER</title>
+    <title>MUSIC PLAYER</title>
   </head>
   <body>
     <section id="AllInBody">
@@ -57,11 +57,11 @@
     <footer>
       Copyright @
       <a
-        href="http://devr.netlify.app"
+        href="https://edubharat.ml"
         target="_blank"
         rel="noopener noreferrer"
       >
-        DevR - Ratul
+        ©EduBharat
       </a>
       <span id="Year"></span>
     </footer>
