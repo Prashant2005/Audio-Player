@@ -21,64 +21,16 @@ let index = 0;
 
 const songDataBase = [
   {
-    songSrc: "./music/music1.mp3",
-    title: "Assalamu Alaika",
-    artist: "Maher Zain",
+    songSrc: "./music/music 1.mp3",
+    title: "Khali Thi ye Zindagi",
+    artist: "Pyaar Lafzon Mein Kahan",
     imgSrc: "./img/music1.jpg",
   },
   {
-    songSrc: "./music/music2.mp3",
-    title: "Deen Islam",
-    artist: "Mohamed Tarek",
-    imgSrc: "./img/music2.jpg",
-  },
-  {
-    songSrc: "./music/music3.mp3",
-    title: "Mix",
-    artist: "Mohammad Tarek",
-    imgSrc: "./img/music3.jpg",
-  },
-  {
-    songSrc: "./music/music4.mp3",
-    title: "Mohammad Nabina",
-    artist: "Unknown",
-    imgSrc: "./img/music4.jpg",
-  },
-  {
-    songSrc: "./music/music5.mp3",
-    title: "Asslamu Alaika",
-    artist: "Maher Zain",
-    imgSrc: "./img/music5.jpg",
-  },
-  {
-    songSrc: "./music/music6.mp3",
-    title: "Maulaya Salli",
-    artist: "Sami Yusuf",
-    imgSrc: "./img/music6.jpg",
-  },
-  {
-    songSrc: "./music/music7.mp3",
-    title: "Lakhon Salam",
-    artist: "Atif Aslam",
-    imgSrc: "./img/music7.jpg",
-  },
-  {
-    songSrc: "./music/music8.mp3",
-    title: "Assalamu Alaika",
-    artist: "Maher zain",
-    imgSrc: "./img/music1.jpg",
-  },
-  {
-    songSrc: "./music/music9.mp3",
-    title: "Maulaya Salli",
-    artist: "Mix",
-    imgSrc: "./img/music6.jpg",
-  },
-  {
-    songSrc: "./music/music10.mp3",
-    title: "Inshallah",
-    artist: "Maher Zain",
-    imgSrc: "./img/music10.jpg",
+    songSrc: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3",
+    title: "Enthusiast",
+    artist: "Tours",
+    imgSrc: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
   },
 ];
 
