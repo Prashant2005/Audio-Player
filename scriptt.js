@@ -20,11 +20,17 @@ let isPlaying = false;
 let index = 0;
 
 const songDataBase = [
-  {
+   {
     songSrc: "./music/music1.mp3",
     title: "Khali Thi ye Zindagi",
     artist: "Pyaar Lafzon Mein Kahan",
     imgSrc: "./img/music1.jpg",
+  },
+  {
+    songSrc: "./music/music2.mp3",
+    title: "Let's Crack It!",
+    artist: "Song by Naezy",
+    imgSrc: "./img/music2.jpg",
   },
   {
     songSrc: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3",
