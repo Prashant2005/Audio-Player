@@ -96,7 +96,7 @@ input[type=submit] {
 </head>
 <body>
 <div class="container">
-  <form action="action.php">
+  <form action="action.php" method="post">
     <div class="row">
       <div class="col-25">
         <label for="fname">First Name</label>
